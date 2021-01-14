@@ -8,7 +8,9 @@ SalvageYT is a Python program for automatically downloading new videos from your
 
 ## Usage
 
-Just run the main python file.
+1. Add channels username in the usernames.txt file(example given).
+
+2. Run the main python file.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
