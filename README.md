@@ -4,7 +4,11 @@ SalvageYT is a Python program for automatically downloading new videos from your
 
 ## Installation
 
-
+```bash
+pip3 install youtube-dl
+pip3 install selenium
+pip3 install webdriver_manager
+```
 
 ## Usage
 
